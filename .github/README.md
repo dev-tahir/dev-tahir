@@ -91,16 +91,4 @@ Full-featured VS Code IDE accessible from any device. Includes file management, 
 
 ---
 
-## 🎯 GitHub Stats
-
-<div align="center">
-
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tahir&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tahir&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 **Let's build something amazing together!** 🚀
